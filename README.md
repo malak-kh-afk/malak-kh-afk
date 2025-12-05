@@ -1,10 +1,6 @@
-Here is a **fully formatted, professional README with badges**, tailored for your GitHub and optimized for both **AI** and **Full-Stack** internship applications.
 
-You can copy-paste it directly into your main GitHub README.md.
 
----
-
-# 👋 Hi, I'm **Mallouka**
+# 👋 Hi, I'm **Malak kharbech**
 
 ### 🔹 AI | Data Analytics | Full-Stack Development
 
