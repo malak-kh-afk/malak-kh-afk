@@ -1,10 +1,6 @@
-Perfect! We can create a **fully unified README** that **blends your Data Analysis and AI projects** in a professional, clean way, highlighting your **AI, NLP, OCR, and Full-Stack skills** while showing your **data analytics experience**. This will make your GitHub profile strong for the SALAMBO PROSERV AI / Full-Stack internship.
 
-Here’s a full draft:
 
----
-
-# 👋 Hi, I'm **Mallouka Kharbech**
+# 👋 Hi, I'm **Malak Kharbech**
 
 ### 🔹 Data Analytics | AI | Full-Stack Development
 
