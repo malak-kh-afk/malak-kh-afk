@@ -1,131 +1,133 @@
+Perfect! We can create a **fully unified README** that **blends your Data Analysis and AI projects** in a professional, clean way, highlighting your **AI, NLP, OCR, and Full-Stack skills** while showing your **data analytics experience**. This will make your GitHub profile strong for the SALAMBO PROSERV AI / Full-Stack internship.
 
+Here’s a full draft:
 
-# 👋 Hi, I'm **Malak kharbech**
+---
 
-### 🔹 AI | Data Analytics | Full-Stack Development
+# 👋 Hi, I'm **Mallouka Kharbech**
 
-### 🔹 Looking for a PFE Internship – *AI* or *Full-Stack*
+### 🔹 Data Analytics | AI | Full-Stack Development
+
+### 🔹 Aspiring AI / NLP / OCR Engineer | Seeking PFE Internship
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/ETL-FF7F00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Data%20Warehouse-003B57?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Pandas-F7C6D0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Numpy-F9DCE1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PowerBI-F5A7C4?style=for-the-badge&logo=powerbi&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLP-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Transformers-FF9900?style=for-the-badge&logo=huggingface" />
+  <img src="https://img.shields.io/badge/Tesseract-14354C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js" />
+  <img src="https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss" />
 </p>
 
 ---
 
-# 📌 About Me
+## 💼 About Me
 
-I am a **Data Analytics student** passionate about **AI**, **Machine Learning**, **NLP**, and **Full-Stack Development**.
-I build real, production-oriented projects and I am currently preparing my **PFE internship**, targeting:
+I am a **Data Analytics student** passionate about turning data into insights, building intelligent systems, and solving real-world problems. I combine **data analysis, machine learning, AI, and full-stack development** in my projects.
 
-✅ **AI – NLP – OCR**
-✅ **Full-Stack – Node.js – React**
-✅ **Data Engineering / Automation**
+Currently seeking a **4-month PFE internship** where I can contribute to **AI/NLP/OCR applications**, **full-stack projects**, or **data-driven decision-making systems**.
 
 ---
 
-# 🆕 Latest Projects
+## 🆕 Featured Projects
 
-## 🔹 1. Automated Installation Application
+### **1️⃣ Automated Installation Application**
 
-A tool that automates the setup of essential development software.
-
-### **Highlights:**
-
-* Automated installation & configuration
-* Workflow optimization
-* System setup automation
-* Built for fast and repeatable developer onboarding
-
-**Tech:** Python, PowerShell/Bash, Automation
-**Status:** ✔ Completed
-👉 *Can be used as a demo of automation & scripting skills*
+* Automates the installation and configuration of development tools.
+* Skills demonstrated: Python scripting, automation, workflow optimization.
+* Relevance: Shows ability to set up environments for AI pipelines.
 
 ---
 
-## 🔹 2. Data Warehouse Project
+### **2️⃣ Data Warehouse & Analytics Project**
 
-A full **end-to-end Data Warehouse** with an operational BI pipeline.
-
-### **Includes:**
-
-* Star schema design (Dimensional Modeling)
-* Full ETL process
-* Data cleaning & transformation
-* Analytical dashboards
-
-**Tech:** MySQL, Talend/ETL, Power BI/Tableau
-**Status:** ✔ Completed
-👉 *Demonstrates strong Data Engineering & BI skills*
+* Full end-to-end ETL process and dimensional modeling (Star Schema).
+* Creates interactive dashboards with Power BI.
+* Skills: Data cleaning, transformation, visualization, BI.
+* Relevance: Ensures high-quality structured data for AI/ML models.
 
 ---
 
-# 🛠 Tech Stack
+### **3️⃣ Burnout Analysis Project**
 
-### **AI / ML**
+* Analyzes survey data on student burnout.
+* Skills: Data cleaning, encoding text variables, visualizations (Matplotlib/Seaborn), insights extraction.
+* Relevance: Shows ability to analyze complex datasets and extract meaningful patterns.
+
+---
+
+### **4️⃣ Predictive Bridge Opening Project (Pont du Bizerte)**
+
+* Simulates a real dataset and predicts bridge opening times before normal schedules.
+* Skills: Predictive modeling, time series analysis, ML algorithms.
+* Relevance: Demonstrates predictive AI modeling and handling real-world data.
+
+---
+
+### **5️⃣ Machine Learning Clustering Mini Project**
+
+* Applies K-Means, K-Medoids, and Hierarchical clustering.
+* Skills: Unsupervised learning, pattern detection, data segmentation.
+* Relevance: Demonstrates ML skills for anomaly detection, grouping, and insights extraction.
+
+---
+
+## 🛠 Tech Stack
+
+### **AI / ML / NLP / OCR**
 
 <p>
   <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python" />
   <img src="https://img.shields.io/badge/NLP-FF6F00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Transformers-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OCR-006699?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Transformers-FF9900?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Tesseract-14354C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PDF%20Parsing-8B0000?style=for-the-badge" />
 </p>
 
-### **Full-Stack**
+### **Data Analytics / BI**
+
+<p>
+  <img src="https://img.shields.io/badge/Pandas-F7C6D0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Numpy-F9DCE1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PowerBI-F5A7C4?style=for-the-badge&logo=powerbi" />
+  <img src="https://img.shields.io/badge/Matplotlib-FADADD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Seaborn-F7C6D0?style=for-the-badge" />
+</p>
+
+### **Full-Stack / Web Development**
 
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js" />
   <img src="https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express" />
   <img src="https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react" />
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss" />
-</p>
-
-### **Backend / Database**
-
-<p>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb" />
-</p>
-
-### **Data Engineering**
-
-<p>
-  <img src="https://img.shields.io/badge/ETL-FF7F00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Data%20Warehouse-003B57?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi" />
 </p>
 
 ---
 
-# 🎯 Career Goal
+## 🎯 Why I Fit the AI / Full-Stack Internship
 
-To contribute to real-world projects, grow as an **AI engineer or Full-Stack developer**, and build intelligent systems that mix:
-
-💡 Machine Learning
-💡 NLP & OCR
-💡 Software Architecture
-💡 Web Development
-💡 Data Engineering
+* Strong foundation in **AI / NLP / OCR** for document processing and prediction.
+* Solid **Data Analysis & BI experience** for high-quality data pipelines.
+* Experience in **Full-Stack development**, enabling integration of AI models into apps.
+* Autonomous, fast learner, detail-oriented, and motivated to contribute to real projects.
 
 ---
 
-# 📫 Contact
+## 📫 Contact
 
-📧 **[mallouka.dev@proton.me](mailto:mallouka.dev@proton.me)**
-🔗 **GitHub:** *your profile link here*
-🔗 **LinkedIn:** *add link*
+📧 Email: **[mallouka.dev@proton.me](mailto:mallouka.dev@proton.me)**
+🔗 LinkedIn: *your link*
+🔗 GitHub: *your link*
 
 ---
 
-If you want, I can also:
+If you want, I can also **add small GIFs/screenshots of your projects**, and make **clickable links to your notebooks or apps**, which makes your GitHub look very professional and impressive for the AI internship.
 
-✅ Adjust it for the **exact AI internship** requirements
-✅ Create **separate README files** for each project
-✅ Add screenshots, demos, or architecture diagrams
+Do you want me to do that next?
