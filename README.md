@@ -122,12 +122,8 @@ Currently seeking a **4-month PFE internship** where I can contribute to **AI/NL
 
 ## 📫 Contact
 
-📧 Email: **[mallouka.dev@proton.me](mailto:mallouka.dev@proton.me)**
-🔗 LinkedIn: *your link*
-🔗 GitHub: *your link*
+📧 Email: **[malakkharbech22@gmail.com](mailto:malakkharbech22@gmail.com)**
+🔗 LinkedIn: *www.linkedin.com/in/malak-kharbech-0a44b2166*
+🔗 GitHub: *https://github.com/malak-kh-afk*
 
----
 
-If you want, I can also **add small GIFs/screenshots of your projects**, and make **clickable links to your notebooks or apps**, which makes your GitHub look very professional and impressive for the AI internship.
-
-Do you want me to do that next?
