@@ -83,7 +83,7 @@ React • Node.js • Express • MongoDB
 
 ## 📫 Connect With Me
 
-📧 malakkharbech22@gmail.com  
+📧 malakkharbech9@gmail.com  
 🔗 www.linkedin.com/in/malak-kharbech-0a44b2166  
 🔗 https://github.com/malak-kh-afk  
 
