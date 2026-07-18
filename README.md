@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Malak Kharbech
 
-🎓 Data Analytst Graduate  
+🎓 Data Analyst Graduate  
 ☁️ Cloud & Infrastructure Automation Enthusiast  
 🤖 AI-driven Systems | NLP | DevOps  
 🌍 Based in Tunisia | Open to international opportunities  
