@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Malak Kharbech
 
-🎓 Final Year Data Analytics Student  
+🎓 Data Analytst Graduate  
 ☁️ Cloud & Infrastructure Automation Enthusiast  
 🤖 AI-driven Systems | NLP | DevOps  
 🌍 Based in Tunisia | Open to international opportunities  
@@ -11,7 +11,7 @@
 
 I build intelligent, scalable systems combining **Cloud Infrastructure, Automation, AI and Data Analytics**.
 
-Currently developing an **Intelligent Infrastructure Automation Platform with AI Chatbot Interface**, enabling automated VM and container provisioning using Infrastructure as Code principles.
+i developped an **Intelligent Infrastructure Automation Platform with AI Chatbot Interface**, enabling automated VM and container provisioning using Infrastructure as Code principles.
 
 I enjoy transforming complex infrastructure and data problems into structured, automated, production-ready systems.
 
