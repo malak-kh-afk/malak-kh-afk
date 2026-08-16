@@ -1,92 +1,143 @@
+# GitHub Profile README — Malak Kharbech
+
 # 👋 Hi, I'm Malak Kharbech
 
-🎓 Data Analyst Graduate  
-☁️ Cloud & Infrastructure Automation Enthusiast  
-🤖 AI-driven Systems | NLP | DevOps  
-🌍 Based in Tunisia | Open to international opportunities  
+### Junior Data Analyst | Big Data & Data Analysis Graduate
+
+I'm a recent **Big Data & Data Analysis graduate** with hands-on experience in transforming raw data into meaningful insights through **data cleaning, analysis, visualization, and reporting**.
+
+My core focus is **Data Analytics**, using tools such as **Power BI, SQL, Microsoft Excel, Python, Pandas, NumPy, and Jupyter Notebook**. I enjoy working through the complete data analysis process—from preparing and exploring data to building dashboards and communicating insights.
 
 ---
 
-## 🚀 About Me
+## 📊 Core Skills
 
-I build intelligent, scalable systems combining **Cloud Infrastructure, Automation, AI and Data Analytics**.
+**Data Analysis & Visualization**
+Power BI • Microsoft Excel • SQL • Data Cleaning • Data Analysis • Data Visualization • Reporting
 
-i developped an **Intelligent Infrastructure Automation Platform with AI Chatbot Interface**, enabling automated VM and container provisioning using Infrastructure as Code principles.
+**Python & Data Analytics**
+Python • Pandas • NumPy • Jupyter Notebook • Matplotlib
 
-I enjoy transforming complex infrastructure and data problems into structured, automated, production-ready systems.
+**Databases & Data Management**
+SQL • MySQL • MongoDB • Data Modeling • Star Schema
 
----
-
-## 🔥 Featured Project
-
-### Intelligent Infrastructure Automation Platform
-
-An enterprise-oriented platform that automates infrastructure provisioning through natural language interaction.
-
-**Key Highlights:**
-- AI Chatbot (Rasa NLP) for infrastructure request processing (FR/EN)
-- Automated VM provisioning on VMware vSphere using Terraform
-- Container orchestration on OpenShift (Helm & Kubernetes)
-- KubeVirt integration for hybrid virtualization
-- Backend APIs built with FastAPI (Python)
-- CI/CD pipelines (GitLab)
-- Operational analytics dashboards (KPI tracking, automation rate, provisioning performance)
-- Governance layer with RBAC & audit logging
-
-**Tech Stack:**  
-Python • FastAPI • Rasa • Terraform • Kubernetes • Helm • Docker • MongoDB • React • GitLab CI
+**Additional Technical Exposure**
+Scikit-learn • Tableau • Hadoop • Apache Spark • AWS Foundations • Git • GitHub
 
 ---
 
-## 📊 Other Projects
+## 🚀 Featured Projects
 
-### Data Warehouse & Analytics
-- End-to-end ETL pipeline
-- Star schema modeling
-- Interactive Power BI dashboards
+### 📊 Student Wellbeing Data Warehouse & Analytics
 
-### Predictive Bridge Opening (Pont du Bizerte)
-- Time series prediction model
-- ML algorithms for scheduling optimization
+An end-to-end data analytics project focused on analyzing student wellbeing, stress, and burnout indicators.
 
-### Burnout Analysis
-- Data cleaning & feature engineering
-- Insight extraction & visualization
+**What I worked on:**
 
----
+* Cleaned and transformed data using **Python, Pandas, and NumPy**
+* Designed a **star-schema Data Warehouse**
+* Worked with **SQL** for data storage and modeling
+* Built interactive **Power BI dashboards**
+* Analyzed key patterns and trends in student wellbeing data
 
-## 🛠 Technical Stack
+**Tools:** `Python` `Pandas` `NumPy` `SQL` `Power BI` `Scikit-learn`
 
-### AI / NLP
-Python • Rasa • Transformers • Tesseract OCR  
-
-### Cloud & DevOps
-Terraform • Kubernetes • Helm • Docker • GitLab CI  
-
-### Data Analytics
-Pandas • NumPy • Power BI • Matplotlib  
-
-### Web Development
-React • Node.js • Express • MongoDB  
+🔗 **Repository:** [student-wellbeing-analytics-dwh](https://github.com/malak-kh-afk/student-wellbeing-analytics-dwh)
 
 ---
 
-## 🎯 Areas of Interest
+### ❤️ Heart Disease Clustering Analysis
 
-- Cloud Automation
-- Infrastructure as Code
-- DevOps Engineering
-- AI-powered IT Operations
-- Data-driven systems
+An unsupervised machine learning project exploring patterns and groups within a heart patient dataset.
+
+**What I worked on:**
+
+* Performed data exploration and preparation
+* Applied **K-Means**, **K-Medoids**, and **Hierarchical Clustering**
+* Used the **Elbow Method** to help identify an appropriate number of clusters
+* Created visualizations to compare clustering results
+
+**Tools:** `Python` `Pandas` `Scikit-learn` `Matplotlib` `Seaborn`
+
+🔗 **Repository:** [heart-disease-clustering](https://github.com/malak-kh-afk/heart-disease-clustering)
 
 ---
 
-## 📫 Connect With Me
+### 🚦 Bizerte Bridge Traffic Prediction
 
-📧 malakkharbech9@gmail.com  
-🔗 www.linkedin.com/in/malak-kharbech-0a44b2166  
-🔗 https://github.com/malak-kh-afk  
+A data-driven project focused on predicting traffic patterns to support bridge-opening and scheduling decisions.
+
+**What I worked on:**
+
+* Explored historical traffic data
+* Developed a time-series prediction approach
+* Applied machine learning techniques for traffic forecasting
+* Used analysis results to support schedule optimization
+
+**Tools:** `Python` `Pandas` `NumPy` `Machine Learning`
 
 ---
 
-⭐ Always learning. Always building. Always improving.
+### ☁️ CloudForge — Intelligent Infrastructure Automation Platform
+
+My final-year project, focused on building an intelligent platform for automating infrastructure provisioning through natural-language interaction.
+
+**Key areas explored:**
+
+* AI and NLP-based request processing
+* Infrastructure automation
+* Backend API development
+* KPI monitoring and analytics
+* CI/CD and modern infrastructure technologies
+
+**Technologies used during the project:** `Python` `FastAPI` `Terraform` `Kubernetes` `Docker` `MongoDB` `GitLab CI/CD`
+
+🔗 **Repository:** [CloudForge](https://github.com/malak-kh-afk/CLoudforge)
+
+---
+
+## 🎓 Education
+
+**Bachelor's Degree in Big Data & Data Analysis**
+Université Centrale, Tunis
+**2023 – 2026**
+
+---
+
+## 📜 Certifications
+
+* AWS Cloud Foundations — AWS Academy
+* Coding & Data Analytics — Honoris Online Academy
+* 21st Century Skills: Social Skills — Honoris Online Academy
+* 21st Century Skills: Entrepreneurial Skills — Honoris Online Academy
+* 21st Century Skills: Personal Skills — Honoris Online Academy
+
+---
+
+## 🌱 Currently Developing
+
+I'm continuing to strengthen my skills in:
+
+* Advanced **SQL**
+* **Power BI** and dashboard design
+* **Python for Data Analysis**
+* **Data storytelling and visualization**
+* Real-world business data analysis
+
+---
+
+## 🎯 Career Goal
+
+I am currently seeking an **entry-level Data Analyst / Junior Data Analyst opportunity** where I can apply my analytical and technical skills, learn from experienced professionals, and contribute to transforming data into useful insights and business decisions.
+
+---
+
+## 📫 Let's Connect
+
+📧 **[malakkharbech9@gmail.com](mailto:malakkharbech9@gmail.com)**
+💼 **LinkedIn:** [Malak Kharbech](https://www.linkedin.com/in/malak-kharbech-0a44b2166/)
+🐙 **GitHub:** [malak-kh-afk](https://github.com/malak-kh-afk)
+
+---
+
+⭐ *Always learning, analyzing, and building with data.*
