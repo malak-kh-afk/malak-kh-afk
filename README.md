@@ -20,9 +20,11 @@ Python, Pandas, NumPy, SQL, Excel, Power BI, Tableau, EDA, KPI Analysis, Data Vi
 ETL, Data Warehousing, Data Modeling, Apache Spark, PySpark, Hadoop, MySQL, MongoDB, NoSQL 
 
 ***Machine Learning & AI***
+
 Scikit-learn, Regression, Classification, Time-Series Forecasting, NLP, OCR, Llama 
 
 ***Development & Cloud***
+
 FastAPI, React, Next.js, REST APIs, Java, PHP, AWS, Azure, GCP, Docker, Kubernetes, Git, CI/CD 
 
 ---
