@@ -1,4 +1,3 @@
-# GitHub Profile README — Malak Kharbech
 
 # 👋 Hi, I'm Malak Kharbech
 
