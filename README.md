@@ -11,18 +11,19 @@ My core focus is **Data Analytics**, using tools such as **Power BI, SQL, Micros
 ---
 
 ## 📊 Core Skills
+***Data Analytics & BI***
 
-**Data Analysis & Visualization**
-Power BI • Microsoft Excel • SQL • Data Cleaning • Data Analysis • Data Visualization • Reporting
+Python, Pandas, NumPy, SQL, Excel, Power BI, Tableau, EDA, KPI Analysis, Data Visualization 
 
-**Python & Data Analytics**
-Python • Pandas • NumPy • Jupyter Notebook • Matplotlib
+***Data Engineering & Big Data***
 
-**Databases & Data Management**
-SQL • MySQL • MongoDB • Data Modeling • Star Schema
+ETL, Data Warehousing, Data Modeling, Apache Spark, PySpark, Hadoop, MySQL, MongoDB, NoSQL 
 
-**Additional Technical Exposure**
-Scikit-learn • Tableau • Hadoop • Apache Spark • AWS Foundations • Git • GitHub
+***Machine Learning & AI***
+Scikit-learn, Regression, Classification, Time-Series Forecasting, NLP, OCR, Llama 
+
+***Development & Cloud***
+FastAPI, React, Next.js, REST APIs, Java, PHP, AWS, Azure, GCP, Docker, Kubernetes, Git, CI/CD 
 
 ---
 
